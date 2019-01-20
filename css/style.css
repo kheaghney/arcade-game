@@ -1,0 +1,11 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.levelCounter,
+.livesCounter {
+  margin: 10px;
+  font-size: 1.5em;
+  text-align: center;
+}
